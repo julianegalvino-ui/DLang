@@ -1,18 +1,18 @@
-# DLang
+# DLang - Alpha
 
-# 📖 DLang - Complete Language Reference
+# 📖 Dolang - Complete Language Reference
 
-## What is DLang?
+## What is DoLang?
 
-**DLang** is an interpreted programming language designed for rapid development of desktop applications and automation tools. Built on top of Python, it offers a clean, intuitive syntax that eliminates the boilerplate of traditional languages while providing native GUI support, smart string interpolation, and explicit memory management.
+**DoLang** is an interpreted programming language designed for rapid development of desktop applications and automation tools. Built on top of Python, it offers a clean, intuitive syntax that eliminates the boilerplate of traditional languages while providing native GUI support, smart string interpolation, and explicit memory management.
 
-DLang was created with a simple philosophy: **"Don't write code for the computer. Write code for yourself."** It's the perfect tool for developers, students, and hobbyists who want to build functional desktop applications in minutes, not hours.
+DoLang was created with a simple philosophy: **"Don't write code for the computer. Write code for yourself."** It's the perfect tool for developers, students, and hobbyists who want to build functional desktop applications in minutes, not hours.
 
 ---
 
 ##  Core Philosophy
 
-DLang follows three main principles:
+DoLang follows three main principles:
 
 1. **Simplicity First**: Every command is short, memorable, and does exactly what it says. No complex imports, no verbose syntax.
 2. **Visual by Default**: GUI development is built into the language. Create windows, buttons, and labels without external libraries.
@@ -22,7 +22,7 @@ DLang follows three main principles:
 
 ##  Type System
 
-DLang has a dynamic type system with four core types:
+DoLang has a dynamic type system with four core types:
 
 - **`nde`** (Integer): Whole numbers like `42`, `-7`, `0`
 - **`dec`** (Decimal): Floating-point numbers like `3.14`, `-0.5`
@@ -45,7 +45,7 @@ pin y = "text"            # Type inferred as chr
 ##  Core Commands
 
 ### Variable Declaration (`pin`)
-The `pin` command declares and initializes variables. It's the foundation of DLang's memory system.
+The `pin` command declares and initializes variables. It's the foundation of DoLang's memory system.
 
 ```text
 pin nde.counter = 0
@@ -178,7 +178,7 @@ x >> "hello"  # Error!
 
 ##  Memory Management
 
-DLang provides explicit memory control with two unique commands:
+DoLang provides explicit memory control with two unique commands:
 
 ### `demolish` - Clear Value
 Sets a variable's value to `vaco` (empty) but keeps the variable in memory.
@@ -202,7 +202,7 @@ show(y)  # Error: The variable "y" does not exist.
 
 ##  GUI Development
 
-DLang's standout feature is its native GUI support. Create desktop applications without external libraries!
+DoLang's standout feature is its native GUI support. Create desktop applications without external libraries!
 
 ### Creating Windows
 
@@ -384,7 +384,7 @@ button ClickMe:
 
 ##  Contributing
 
-DLang is in active development and contributions are welcome! Whether you want to add new features, fix bugs, improve documentation, or create examples, your help is appreciated.
+DoLang is in active development and contributions are welcome! Whether you want to add new features, fix bugs, improve documentation, or create examples, your help is appreciated.
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/AmazingFeature`
@@ -411,5 +411,5 @@ This project is open source and available under the MIT License. See the [LICENS
 
 **Made with ❤️ by [Douglas]**
 
-*If you enjoy DLang, please give it a ⭐️ on GitHub and share it with others!*
+*If you enjoy DoLang, please give it a ⭐️ on GitHub and share it with others!*
 
