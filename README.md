@@ -1,4 +1,4 @@
-# DLang - Alpha
+# DoLang - Alpha
 
 # 📖 Dolang - Complete Language Reference
 
